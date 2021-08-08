@@ -1,3 +1,5 @@
+# originally taken from https://github.com/simon-pikalov/pyTellescope
+
 import serial
 #from threading import *
 import threading as tr
