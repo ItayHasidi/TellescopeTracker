@@ -1,3 +1,5 @@
+# originally taken from https://github.com/simon-pikalov/pyTellescope
+
 import cv2 as cv
 import time
 import Telcontrol
